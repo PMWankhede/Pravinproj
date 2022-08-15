@@ -29,7 +29,7 @@ public class ReverceTheNumber {
 		int revnum = Integer.parseInt(r);
 		System.out.println("Orizinal number "+num1);
 		System.out.println("Reverce number "+revnum);
-thub
+
 	}
 
 }
