@@ -3,7 +3,9 @@ package logicalPrograms;
 public class ArmStringNumber {
 
 	public static void main(String[] args) 
-	{
+	{   
+		//153==1^3+5^3;1^3=>1+125+27=>153
+		
 		int num = 153;
 		int sum = 0 ;
 		
